@@ -1,4 +1,4 @@
-package task_final;
+package task_final_1;
 
 // Создать логирование операций, для класса Calculator. Класс Calculator не должен изменится.
 public class Main {
